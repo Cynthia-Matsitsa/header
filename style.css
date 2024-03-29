@@ -1,0 +1,283 @@
+
+#navbar{
+    display: flex;
+    gap: 90px;
+    border: solid;
+    border-radius: 20px;
+    padding: 20px;
+    width: 1100px;
+    height: 70px;
+    background-color: white;
+    border-style: hidden;
+    margin-left: 200px;
+    
+    
+    
+}
+#hom{
+    border: solid;
+    padding: 18px;
+    border-radius: 18px;
+    width: 15%;
+    background-color:orange;
+    color: white;
+    
+}
+#trip{
+    border: solid;
+    border-radius: 18px;
+    padding: 18px;
+    background-color: orange;
+    width: 15%;
+    color: white;
+    font-size: 100%;
+    
+}
+#nav1{
+    background-image: url("image/or.jpg");
+    text-align: center;
+    border: solid;
+    padding: 30px;
+    border-radius: 30px;
+    margin: 3%;
+    border-style: hidden;
+}
+#words{
+    font-size: 200%;
+
+}
+#beauty1{
+    font-size: 200%;
+}
+#beauty{
+    text-align: center;
+}
+#nature{
+    display: flex;
+    justify-content: center;
+    gap: 90px;
+}
+#icons{
+    display: flex;
+    justify-content: center;
+    gap: 90px;
+}
+#unique{
+    font-size: 200%;
+    text-align: center;
+}
+#trips{
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+}
+#top{
+    text-align: center;
+    font-size: 200%;
+}
+#scot{
+    border: solid;
+    padding: 20px;
+    border-radius: 20px;
+    
+    
+}
+#eng{
+    border: solid;
+    padding: 20px;
+    border-radius: 20px;
+    
+
+}
+#bangk{
+    border: solid;
+    padding: 20px;
+    border-radius: 20px;
+      
+     
+}
+#fran{
+    border: solid;
+    padding: 20px;
+    border-radius: 20px;
+
+}
+#ned{
+    border: solid;
+    padding: 20px;
+    border-radius: 20px;
+      
+    
+}
+#lta{
+    border: solid;
+    padding: 20px;
+    border-radius: 20px;
+    
+
+      
+}
+#countries{
+      display: flex;
+      gap: 90px;
+      justify-content: center;
+      
+    
+}
+#origin{
+   display: flex;
+   gap: 200px;
+   justify-content: center;
+
+}
+#client{
+    font-size: 200%;
+    text-align: center;
+    
+}
+#holder{
+    display: flex;
+    gap: 200px;
+    justify-content: center;
+}
+#our{
+    font-size: 200%;
+}
+#blog{
+    text-align: center;
+}
+#nice{
+    font-size: 200%;
+}
+#det{
+    font-size: 200%;
+}
+#tal{
+    font-size: 200%;
+}
+#street1{
+display: block;
+    justify-content: center;
+    display: flex;
+    gap: 90px;
+    margin: 200px;
+    
+}
+#fact{ 
+    font-size: 200%;
+}
+#feel{
+    font-size: 200%;
+}
+
+#reader{
+    font-size: 150%;
+
+}
+#page{
+    font-size: 150%;
+}
+#report{
+    border: solid;
+    border-radius: 15px;
+    padding: 15px;
+    background-color: orange;
+    width: 13%;
+    
+}
+#cope{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    background-color: orange;
+    border-radius: 20px;
+    width: 60%;
+    margin-left: 300px;
+
+
+}
+#free{
+    color: white;
+}
+#Adventure{
+    background-image: url("image/np.jpg");
+    text-align: center;
+    border: solid;
+    padding: 20px;
+    width: 90%;
+    height: 600px;
+    width: 500pxpx;
+    margin: 9%;
+    border-style: hidden;
+    
+}
+#sign{
+    border: solid;
+    border-radius: 15px;
+    padding: 15px;
+    width: 15%;
+    font-size: 100%;
+    border-style: hidden;
+}
+#log{
+    border: solid;
+    border-radius: 15px;
+    padding: 15px;
+    width: 15%;
+    font-size: 100%; 
+    background-color: orange;
+    border-style: hidden;
+}
+#make{
+    justify-content: space-around;
+}
+#letter{
+    font-size: 200%;
+}
+#level{
+    font-size: 200%;
+}
+#email{
+    border: solid;
+    border-radius: 15px;
+    padding: 15px;
+    width: 15%;
+}
+#us{
+    font-size: 200%;
+    
+}
+#join{
+    text-align: center;
+}
+
+#concept{
+    font-size: 150%;
+}
+#content{
+    font-size: 150%
+}
+#use{
+    font-size: 150%;
+}
+#look{
+    display: flex;
+    gap: 150px;
+    justify-content: center;
+}
+#container{
+    border: solid;
+    padding: 50px;
+    margin: 4%;
+    border-style: hidden;
+}
+#explore{
+    text-align: center;
+}
+
+
+
+
+
+
+    
